@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Santiago Mercanti 👋
-Soy estudiante de Ing. en Sistemas en la UTN FRSF, actualmente transitando mi 5to en la universidad.
+Soy estudiante de Ing. en Sistemas en la UTN FRSF, actualmente transitando mi 5to año en la universidad.
 
 <!--
 **SantiagoMercanti/SantiagoMercanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
