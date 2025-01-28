@@ -7,7 +7,7 @@ sólidas y adquirí experiencia práctica. Apasionado por la programación y el
 desarrollo de software, estoy en búsqueda de oportunidades laborales que me
 permitan crecer profesionalmente en este campo.
 
-##Lenguajes y tecnologías ⚡
+## Lenguajes y tecnologías ⚡
 Python - C++ - HTML - CSS - JavaScript - SQL - Java - Git - AWS - Smalltalk - Angular - Scheme - Wireshark - Docker
 
 
