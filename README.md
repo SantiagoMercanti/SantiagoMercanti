@@ -16,7 +16,9 @@ Python - C++ - HTML - CSS - JavaScript - SQL - Java - Git - AWS - Smalltalk - An
 - Especificación Textual de Modelos de Simulación DEVS: Construcción de sintaxis para modelos acoplados (mar. 2022 - nov. 2022)
 - Generación de Modelos de Componentes basados en Modelos DEVS Acoplados (mar. 2023 - nov. 2023)
 
-
+#### SERFE S.A. - Desarrollador Full-Stack Junior mar.2025 - jun. 2025 
+- Capacitación en Next.js, TypeScript, Material UI, Tailwind CSS, Node.js, PostgreSQL y Prisma ORM.
+- Participación en el desarrollo y mantenimiento de plataformas web.
 
 <!--
 **SantiagoMercanti/SantiagoMercanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
