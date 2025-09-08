@@ -4,11 +4,11 @@ aprobadas y en etapa de realización del proyecto final de carrera. Durante
 2022 y 2023, me desempeñé como becario en investigación y desarrollo en
 proyectos respaldados por CONICET, donde potencié habilidades técnicas
 sólidas y adquirí experiencia práctica. Apasionado por la programación y el
-desarrollo de software, estoy en búsqueda de oportunidades laborales que me
+desarrollo de software, en búsqueda de oportunidades que me
 permitan crecer profesionalmente en este campo.
 
 ### Lenguajes y tecnologías ⚡
-Python - C++ - HTML - CSS - JavaScript - SQL - Java - Git - AWS - Smalltalk - Angular - Scheme - Wireshark - Docker
+Python - C++ - HTML - CSS - JavaScript - SQL - Java - Git - AWS - Smalltalk - Angular - Scheme - Wireshark - Docker - PHP - NextJS - SQL
 
 ### Experiencia 🔭
 #### INGAR - Becario de Investigación y Desarrollo mar. 2022 - nov. 2023
@@ -16,7 +16,7 @@ Python - C++ - HTML - CSS - JavaScript - SQL - Java - Git - AWS - Smalltalk - An
 - Especificación Textual de Modelos de Simulación DEVS: Construcción de sintaxis para modelos acoplados (mar. 2022 - nov. 2022)
 - Generación de Modelos de Componentes basados en Modelos DEVS Acoplados (mar. 2023 - nov. 2023)
 
-#### SERFE S.A. - Desarrollador Full-Stack Junior mar.2025 - jun. 2025 
+#### SERFE S.A. - Desarrollador Full-Stack Junior mar. 2025 - jun. 2025 
 - Capacitación en Next.js, TypeScript, Material UI, Tailwind CSS, Node.js, PostgreSQL y Prisma ORM.
 - Participación en el desarrollo y mantenimiento de plataformas web.
 
